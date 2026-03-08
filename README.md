@@ -49,3 +49,26 @@ combined_15coins_OHLCV.csv
 ```
 
 This dataset merges the OHLCV data from all coins into one dataset.
+# Dataset Details
+
+- Exchange: Binance Spot
+- Data type: OHLCV
+- Time range: ~5 years
+- Coins: 15 cryptocurrency pairs
+- File format: CSV
+
+---
+
+# Acknowledgment
+
+Market data collection is powered by the **PriceHub** library.
+
+Official repository:
+
+https://github.com/eslazarev/pricehub
+
+---
+
+# License
+
+This repository is intended for **learning, research, and data analysis purposes**.
